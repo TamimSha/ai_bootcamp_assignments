@@ -1,0 +1,7 @@
+*.h5
+*.weights
+*.zip
+*.caffemodel
+*.pkl
+*.csv
+*.prototxt
